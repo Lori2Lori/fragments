@@ -1,0 +1,17 @@
+{
+  "name": "fragments",
+  "version": "0.0.0",
+  "description": "Documents fragments",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "gulp test",
+    "develop": "gulp develop",
+    "prepublish": "gulp build"
+  },
+  "author": "Dorota Cieślińska",
+  "license": "GPL3",
+  "devDependencies": {},
+  "dependencies": {
+    "firebase": "^2.4.0"
+  }
+}
